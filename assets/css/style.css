@@ -11,6 +11,17 @@ body {
 
 }
 
+.container{
+  position: relative;
+}
+
+img.gif {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  width: 6rem;
+}
+
 .text-blue{
     color: rgb(68, 105, 255);
 }
